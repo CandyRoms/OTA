@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1719474600,
-      "size": 1812621634,
-      "filehash": "6e6aace2e1a92952110acd3b44eb4e6c",
-      "filename": "CandyRoms-udc-sky-20240627-0831-GAPPS-OFFICIAL.zip",
-      "id": "0f5c88c29e0d3065d353a86efc01bcf60e3da901af5ecb4f8311bdab8a09fcee",
+      "datetime": 1719482956,
+      "size": 1812598236,
+      "filehash": "aba050ed9e232e94cc18770363334d45",
+      "filename": "CandyRoms-udc-sky-20240627-1010-GAPPS-OFFICIAL.zip",
+      "id": "d15c86495fe0c961aa0c58f21a2b004312e4aa7bfdc8535a472a44a69e82895c",
       "romtype": "OFFICIAL",
       "version": "udc",
-      "url": "https://sourceforge.net/projects/candyroms/files/Official/14/sky/CandyRoms-udc-sky-20240627-0831-GAPPS-OFFICIAL.zip/download"
+      "url": "https://sourceforge.net/projects/candyroms/files/Official/14/sky/CandyRoms-udc-sky-20240627-1010-GAPPS-OFFICIAL.zip/download"
     }
   ]
 }
+
