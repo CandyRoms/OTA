@@ -1,19 +1,19 @@
 {
-"response": [
-  {
-    "timestamp": 1719482956,
-    "size": 1812598236,
-    "md5": "aba050ed9e232e94cc18770363334d45",
-    "filename": "CandyRoms-udc-sky-20240627-1010-GAPPS-OFFICIAL.zip",
-    "id": "d15c86495fe0c961aa0c58f21a2b004312e4aa7bfdc8535a472a44a69e82895c",
-    "buildtype": "OFFICIAL",
-    "version": "udc",
-    "download": "https://sourceforge.net/projects/candyroms/files/Official/14/sky/CandyRoms-udc-sky-20240627-1010-GAPPS-OFFICIAL.zip",
-    "maintainer": "Mourya",
-    "forum": "",
-    "telegram": "",
-    "firmware": "",
-    "paypal": ""
+  "response": [
+    {
+      "timestamp": 1719495482,
+      "size": 1812598473,
+      "md5": "6dfbe92a7c96aff38dea0e5ebcd21122",
+      "filename": "CandyRoms-udc-sky-20240627-1338-GAPPS-OFFICIAL.zip",
+      "id": "0eb7625dc3113ac49578330dfac6e93933b20e2494f367fb06ffe03b979c0c39",
+      "romtype": "OFFICIAL",
+      "version": "udc",
+      "download": "https://sourceforge.net/projects/candyroms/files/Official/14/sky/CandyRoms-udc-sky-20240627-1338-GAPPS-OFFICIAL.zip/download",
+      "maintainer": "Mourya",
+      "forum": "",
+      "telegram": "",
+      "firmware": "",
+      "paypal": ""
   }
 ]
 }
