@@ -6,7 +6,7 @@
       "md5": "6dfbe92a7c96aff38dea0e5ebcd21122",
       "filename": "CandyRoms-udc-sky-20240627-1338-GAPPS-OFFICIAL.zip",
       "id": "0eb7625dc3113ac49578330dfac6e93933b20e2494f367fb06ffe03b979c0c39",
-      "romtype": "OFFICIAL",
+      "buildtype": "OFFICIAL",
       "version": "udc",
       "download": "https://sourceforge.net/projects/candyroms/files/Official/14/sky/CandyRoms-udc-sky-20240627-1338-GAPPS-OFFICIAL.zip/download",
       "maintainer": "Mourya",
