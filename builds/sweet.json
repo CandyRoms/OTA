@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "timestamp": 1720006814,
+      "size": 2123716046,
+      "md5": "cb7be0b58bde0caef4a0d1d115ec4c36",
+      "filename": "CandyRoms-udc-sweet-20240703-1230-GAPPS-OFFICIAL.zip",
+      "id": "5dcf76268357f03f063a8263257f4cc49460e2e55e05f9fb8b0c35ce7e19438e",
+      "romtype": "OFFICIAL",
+      "version": "udc",
+      "download": "https://sourceforge.net/projects/candyroms/files/Official/14/sweet/CandyRoms-udc-sweet-20240703-1230-GAPPS-OFFICIAL.zip/download",
+      "generated_at": "2024-07-03T12:40:47+0000",
+      "maintainer": "Mourya",
+      "forum": "https://default.forum.url",
+      "telegram": "https://default.telegram.url",
+      "firmware": "Default Firmware",
+      "paypal": "https://default.paypal.url"
+    }
+  ]
+}
